@@ -7,7 +7,7 @@
 <br>
 [Web-scraping — cats](https://pixnio.com/ru/%25D1%2582%25D0%25B5%25D0%25B3/%D0%BA%D0%BE%D1%88%D0%BA%D0%B0)
 <br>
-[Colab notebook](https://colab.research.google.com/drive/1QefrCfW0jj-GqKXbrjAlOsS6Pw4Xmdvp?usp=sharing) (Пожалуйста, обратите внимание на объяснение к русскому языку в маркдауне)
+[Colab notebook](https://colab.research.google.com/drive/1QefrCfW0jj-GqKXbrjAlOsS6Pw4Xmdvp?usp=sharing) (Пожалуйста, обратите внимание на русское пояснение в маркдауне)
 
 ### Модуль 2. Практическое задание
 coming soon ...
