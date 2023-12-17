@@ -23,3 +23,6 @@ Cсылочки:
 
 Более подробную информацию об обработке данных изображений разметки см. также:
 - [Colab notebook](https://colab.research.google.com/drive/1zZKYIRrRDK33TuXnf-8n25ErVvXv51Cn?usp=sharing) (Модуль_2 → m4154_Ван_Цюаньюй_Модуль_2_Практическое_задание_colab.ipynb)
+
+### Модуль 3. Мультимодальные данные
+- [Colab notebook](https://colab.research.google.com/drive/1oT3BOKGsF5d8R9MCGOcwoeH8Gvysx13I?usp=sharing) (Модуль_3 → m4154_Ван_Цюаньюй_Модуль_3_Мультимодальные_данные_colab.ipynb)
